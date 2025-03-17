@@ -1,4 +1,4 @@
 <?php
 
-echo "Hello  Microsolf Azure!";
+echo "Hello Microsolf Azure!";
 >?
